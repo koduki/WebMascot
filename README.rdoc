@@ -1,0 +1,4 @@
+= WebMascot
+
+WebMascot is a webbase based agent system.
+
